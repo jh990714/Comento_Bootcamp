@@ -1,12 +1,12 @@
 # SW개발 직무부트캠프
 
 ## 1차 과제 (개발환경 세팅) 
-1. JDK 1.8설치
-2. Eclipse, Spring 다운로드 및 설치
-3. 톰캣 설정
-4. Hello World 출력
-5. mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
-6. 스프링, Mariadb, MyBatis 연동, 데이터 조회
+* JDK 1.8설치
+* Eclipse, Spring 다운로드 및 설치
+* 톰캣 설정
+* Hello World 출력
+* mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
+* 스프링, Mariadb, MyBatis 연동, 데이터 조회
 
 ## 개발 환경
 * Java 8
