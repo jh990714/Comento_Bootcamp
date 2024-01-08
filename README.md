@@ -2,7 +2,7 @@
 
 ## 1차 과제 (개발환경 셋팅) 
 * JDK 1.8설치
-* Eclipse, Spring 다운롣 및 설치
+* Eclipse, Spring 다운로드 및 설치
 * 톰캣 설정
 * Hello World 출력
 * mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
