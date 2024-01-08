@@ -10,7 +10,7 @@
 * DB : MariaDB
 
 ## 중간 Quiz
-MovieVO.java
+#### MovieVO.java 
 
     public class MovieVO {
     	private String movie_name; // 영화 제목
@@ -36,3 +36,7 @@ MovieVO.java
     		this.type = type;
     	}
     }
+
+
+## 실행 결과
+![실행 결과]()
