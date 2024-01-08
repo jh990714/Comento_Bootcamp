@@ -20,7 +20,7 @@
 #### MovieVO.java 
 
     public class MovieVO {
-    	private String movie_name; // 영화 제목
+    	private String movie_name; // 영화이름
     	private String director; // 감독
     	private String type; // 장르
     	
