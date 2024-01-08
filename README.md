@@ -39,4 +39,5 @@
 
 
 ## 실행 결과
-![실행 결과](https://github.com/jh990714/Comento_Bootcamp/blob/main/%5B1%EC%A3%BC%EC%B0%A8%5D%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.png)
+![1주차 실행결과](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/0a21d1f2-6b06-4d03-bb3c-886776b14ab3)
+
