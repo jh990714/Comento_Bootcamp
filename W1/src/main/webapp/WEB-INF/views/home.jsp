@@ -3,10 +3,10 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <html>
 <head>
-<title>[1차] 개발환경 세팅</title>
+<title>[1차] 개발환경 셋팅</title>
 </head>
 <body>
-    <h1>[1차] 개발환경 세팅 - 장준혁</h1>
+    <h1>[1차] 개발환경 셋팅 - 장준혁</h1>
  
     <table>
         <thead>
