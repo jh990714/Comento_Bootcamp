@@ -9,6 +9,14 @@
 * WAS : Tomcat 9.0
 * DB : MariaDB
 
+## 개발환경 구축
+* JDK 1.8설치
+* Eclipse, Spring 다운롣 및 설치
+* 톰캣 설정
+* Hello World 출력
+* mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
+* 스프링, Mariadb, MyBatis 연동, 데이터 조회
+  
 ## 중간 Quiz
 #### MovieVO.java 
 
