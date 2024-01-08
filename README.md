@@ -1,4 +1,4 @@
-# [1차] 개발환경 세팅
+# SW개발 직무부트캠프
 
 ## 1차 과제 (개발환경 세팅) 
 * JDK 1.8설치
@@ -46,5 +46,5 @@
 
 
 ## 실행 결과
-![1주차 실행결과](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/b6b8028b-c163-4d08-a05c-b29746fb1d96)
+![1주차 실행결과](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/9483459a-ee71-4192-8639-d1b5ed54771a)
 
