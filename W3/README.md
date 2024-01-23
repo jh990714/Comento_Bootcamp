@@ -1,8 +1,8 @@
 ## 3주차
 ## 과제
-### 1. Spring Boot 개발 환경 셋팅
+### 1. Spring Boot 개발 환경 구축
 
-Test 실행 화면
+- Test 실행 화면
 
 ![3주차 개발환경 실행결과](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/fb13db5b-ce70-49d3-9723-bb16c450e5d5)
 
