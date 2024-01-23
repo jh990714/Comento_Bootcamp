@@ -71,7 +71,7 @@
 
 - user Table
 
-![user_table](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/7b024195-aa5b-4302-826d-b40c93214744)
+![user_table](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/ac06c88d-c4d2-4134-bf9a-41c0009bd866)
 
 #### 3. [20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동
 - API Test [20년도 로그인수 API]
