@@ -81,7 +81,7 @@
 #### 4. SW활용 현황 통계 API 구축을 위한 SQL 작성
 - 월별 접속자 수
 
-![월별 로그인 수 sql](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/3b056bb2-a05a-4f74-b614-13d06cfcd0f8)
+![월별 로그인 수 sql](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/6fdcfe19-1da6-4d57-9d9f-11f8ba467c84)
 
 - 일자별 접속자 수
 
@@ -94,5 +94,8 @@
 - 휴일을 제외한 로그인 수
 
 - 부서별 월별 로그인 수
+
+![부서별 월별 로그인 수](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/70a658f4-f0d3-4804-b2ec-6bab87f3cc30)
+
 
 
