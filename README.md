@@ -2,12 +2,12 @@
 
 ## 1주차
 ### 과제
-* JDK 1.8설치
-* Eclipse, Spring 다운로드 및 설치
-* 톰캣 설정
-* Hello World 출력
-* mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
-* 스프링, Mariadb, MyBatis 연동, 데이터 조회
+#### 1. JDK 1.8설치
+#### 2. Eclipse, Spring 다운로드 및 설치
+#### 3. 톰캣 설정
+#### 4. Hello World 출력
+#### 5. mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
+#### 6. 스프링, Mariadb, MyBatis 연동, 데이터 조회
 
 ### 개발 환경
 * Java 8
@@ -49,21 +49,23 @@
 ### 실행 결과
 ![1주차 실행결과](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/9483459a-ee71-4192-8639-d1b5ed54771a)
 
+<br/><br/>
 
 ## 2주차
 ### 과제 
 
+<br/><br/>
 
 ## 3주차
-## 과제
-### 1. Spring Boot 개발 환경 구축
+### 과제
+#### 1. Spring Boot 개발 환경 구축
 
 - Test 실행 화면
 
 ![3주차 개발환경 실행결과](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/fb13db5b-ce70-49d3-9723-bb16c450e5d5)
 
   
-### 2. 통계 API(SW활용현황)을 위한 DB, TABLE 생성 
+#### 2. 통계 API(SW활용현황)을 위한 DB, TABLE 생성 
 - requestInfo Table
 
 ![requestinfo_table](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/aa11fe36-c981-4f6e-a877-79ab7beafee3)
@@ -74,11 +76,11 @@
 
 ![user_table](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/7b024195-aa5b-4302-826d-b40c93214744)
 
-### 3. [20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동
+#### 3. [20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동
 - API Test [20년도 로그인수 API]
 
 
-### 4. SW활용 현황 통계 API 구축을 위한 SQL 작성
+#### 4. SW활용 현황 통계 API 구축을 위한 SQL 작성
 - 월별 접속자 수
 
 - 일자별 접속자 수
