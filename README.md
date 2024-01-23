@@ -1,6 +1,7 @@
 # SW개발 직무부트캠프
 
-## 1차 과제 (개발환경 세팅) 
+## 1주차
+### 1차 과제 (개발환경 세팅) 
 * JDK 1.8설치
 * Eclipse, Spring 다운로드 및 설치
 * 톰캣 설정
@@ -8,7 +9,7 @@
 * mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
 * 스프링, Mariadb, MyBatis 연동, 데이터 조회
 
-## 개발 환경
+### 개발 환경
 * Java 8
 * Jdk 1.8
 * IDE : Eclipse 2021-03
@@ -16,7 +17,7 @@
 * WAS : Tomcat 9.0
 * DB : MariaDB
 
-## 중간 Quiz
+### 중간 Quiz
 #### MovieVO.java 
 
     public class MovieVO {
@@ -45,6 +46,6 @@
     }
 
 
-## 실행 결과
+### 실행 결과
 ![1주차 실행결과](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/9483459a-ee71-4192-8639-d1b5ed54771a)
 
