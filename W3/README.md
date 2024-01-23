@@ -1,24 +1,24 @@
 ## 3주차
 ## 과제
-### 1. 스프링부트 개발 환경 셋팅
+### 1. Spring Boot 개발 환경 셋팅
 
 Test 실행 화면
 
 ![3주차 개발환경 실행결과](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/fb13db5b-ce70-49d3-9723-bb16c450e5d5)
 
   
-#### 2. 통계 API(SW활용현황)을 위한 DB, TABLE 생성 
+### 2. 통계 API(SW활용현황)을 위한 DB, TABLE 생성 
 - requestInfo Table
 
 - requestCode Table
 
 - user Table
 
-#### 3. [20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동
+### 3. [20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동
 - API Test [20년도 로그인수 API]
 
 
-#### 4. SW활용 현황 통계 API 구축을 위한 SQL 작성
+### 4. SW활용 현황 통계 API 구축을 위한 SQL 작성
 - 월별 접속자 수
 
 - 일자별 접속자 수
