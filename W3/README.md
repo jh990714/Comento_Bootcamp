@@ -19,7 +19,7 @@
 ### 3. [20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동
 - API Test [20년도 로그인수 API]
   
-![20년도 로그인 수](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/b41ddec5-6d48-4f54-a122-67776518fd0f)
+![20년도 로그인 수](https://github.com/jh990714/Comento_Bootcamp/assets/144774186/cface7e2-bb99-4d6f-b47d-4f351b52cee1)
 
 ### 4. SW활용 현황 통계 API 구축을 위한 SQL 작성
 - 월별 접속자 수
