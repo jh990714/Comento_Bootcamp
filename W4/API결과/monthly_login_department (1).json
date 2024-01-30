@@ -1,0 +1,256 @@
+{
+  "returnCode" : 200,
+  "param" : {
+    "startDate" : null,
+    "endDate" : null,
+    "department" : null
+  },
+  "returnMessage" : "Success",
+  "info" : {
+    "Sales" : [ {
+      "month" : "2023-01",
+      "department" : "Sales",
+      "loginCount" : 27
+    }, {
+      "month" : "2023-02",
+      "department" : "Sales",
+      "loginCount" : 23
+    }, {
+      "month" : "2023-03",
+      "department" : "Sales",
+      "loginCount" : 29
+    }, {
+      "month" : "2023-04",
+      "department" : "Sales",
+      "loginCount" : 15
+    }, {
+      "month" : "2023-05",
+      "department" : "Sales",
+      "loginCount" : 19
+    }, {
+      "month" : "2023-06",
+      "department" : "Sales",
+      "loginCount" : 17
+    }, {
+      "month" : "2023-07",
+      "department" : "Sales",
+      "loginCount" : 20
+    }, {
+      "month" : "2023-08",
+      "department" : "Sales",
+      "loginCount" : 15
+    }, {
+      "month" : "2023-09",
+      "department" : "Sales",
+      "loginCount" : 19
+    }, {
+      "month" : "2023-10",
+      "department" : "Sales",
+      "loginCount" : 15
+    }, {
+      "month" : "2023-11",
+      "department" : "Sales",
+      "loginCount" : 17
+    }, {
+      "month" : "2023-12",
+      "department" : "Sales",
+      "loginCount" : 28
+    } ],
+    "Support" : [ {
+      "month" : "2023-01",
+      "department" : "Support",
+      "loginCount" : 20
+    }, {
+      "month" : "2023-02",
+      "department" : "Support",
+      "loginCount" : 21
+    }, {
+      "month" : "2023-03",
+      "department" : "Support",
+      "loginCount" : 23
+    }, {
+      "month" : "2023-04",
+      "department" : "Support",
+      "loginCount" : 21
+    }, {
+      "month" : "2023-05",
+      "department" : "Support",
+      "loginCount" : 23
+    }, {
+      "month" : "2023-06",
+      "department" : "Support",
+      "loginCount" : 22
+    }, {
+      "month" : "2023-07",
+      "department" : "Support",
+      "loginCount" : 24
+    }, {
+      "month" : "2023-08",
+      "department" : "Support",
+      "loginCount" : 25
+    }, {
+      "month" : "2023-09",
+      "department" : "Support",
+      "loginCount" : 24
+    }, {
+      "month" : "2023-10",
+      "department" : "Support",
+      "loginCount" : 29
+    }, {
+      "month" : "2023-11",
+      "department" : "Support",
+      "loginCount" : 24
+    }, {
+      "month" : "2023-12",
+      "department" : "Support",
+      "loginCount" : 26
+    } ],
+    "Development" : [ {
+      "month" : "2023-01",
+      "department" : "Development",
+      "loginCount" : 20
+    }, {
+      "month" : "2023-02",
+      "department" : "Development",
+      "loginCount" : 21
+    }, {
+      "month" : "2023-03",
+      "department" : "Development",
+      "loginCount" : 22
+    }, {
+      "month" : "2023-04",
+      "department" : "Development",
+      "loginCount" : 15
+    }, {
+      "month" : "2023-05",
+      "department" : "Development",
+      "loginCount" : 19
+    }, {
+      "month" : "2023-06",
+      "department" : "Development",
+      "loginCount" : 21
+    }, {
+      "month" : "2023-07",
+      "department" : "Development",
+      "loginCount" : 23
+    }, {
+      "month" : "2023-08",
+      "department" : "Development",
+      "loginCount" : 25
+    }, {
+      "month" : "2023-09",
+      "department" : "Development",
+      "loginCount" : 13
+    }, {
+      "month" : "2023-10",
+      "department" : "Development",
+      "loginCount" : 30
+    }, {
+      "month" : "2023-11",
+      "department" : "Development",
+      "loginCount" : 17
+    }, {
+      "month" : "2023-12",
+      "department" : "Development",
+      "loginCount" : 15
+    } ],
+    "HR" : [ {
+      "month" : "2023-01",
+      "department" : "HR",
+      "loginCount" : 20
+    }, {
+      "month" : "2023-02",
+      "department" : "HR",
+      "loginCount" : 15
+    }, {
+      "month" : "2023-03",
+      "department" : "HR",
+      "loginCount" : 17
+    }, {
+      "month" : "2023-04",
+      "department" : "HR",
+      "loginCount" : 9
+    }, {
+      "month" : "2023-05",
+      "department" : "HR",
+      "loginCount" : 11
+    }, {
+      "month" : "2023-06",
+      "department" : "HR",
+      "loginCount" : 16
+    }, {
+      "month" : "2023-07",
+      "department" : "HR",
+      "loginCount" : 21
+    }, {
+      "month" : "2023-08",
+      "department" : "HR",
+      "loginCount" : 13
+    }, {
+      "month" : "2023-09",
+      "department" : "HR",
+      "loginCount" : 19
+    }, {
+      "month" : "2023-10",
+      "department" : "HR",
+      "loginCount" : 21
+    }, {
+      "month" : "2023-11",
+      "department" : "HR",
+      "loginCount" : 22
+    }, {
+      "month" : "2023-12",
+      "department" : "HR",
+      "loginCount" : 17
+    } ],
+    "Marketing" : [ {
+      "month" : "2023-01",
+      "department" : "Marketing",
+      "loginCount" : 24
+    }, {
+      "month" : "2023-02",
+      "department" : "Marketing",
+      "loginCount" : 29
+    }, {
+      "month" : "2023-03",
+      "department" : "Marketing",
+      "loginCount" : 21
+    }, {
+      "month" : "2023-04",
+      "department" : "Marketing",
+      "loginCount" : 22
+    }, {
+      "month" : "2023-05",
+      "department" : "Marketing",
+      "loginCount" : 28
+    }, {
+      "month" : "2023-06",
+      "department" : "Marketing",
+      "loginCount" : 21
+    }, {
+      "month" : "2023-07",
+      "department" : "Marketing",
+      "loginCount" : 25
+    }, {
+      "month" : "2023-08",
+      "department" : "Marketing",
+      "loginCount" : 26
+    }, {
+      "month" : "2023-09",
+      "department" : "Marketing",
+      "loginCount" : 24
+    }, {
+      "month" : "2023-10",
+      "department" : "Marketing",
+      "loginCount" : 24
+    }, {
+      "month" : "2023-11",
+      "department" : "Marketing",
+      "loginCount" : 17
+    }, {
+      "month" : "2023-12",
+      "department" : "Marketing",
+      "loginCount" : 21
+    } ]
+  }
+}

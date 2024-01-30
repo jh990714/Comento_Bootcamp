@@ -1,0 +1,12 @@
+{
+  "returnCode" : 200,
+  "param" : {
+    "startDate" : "2023-07-01",
+    "endDate" : "2023-12-31",
+    "department" : null
+  },
+  "returnMessage" : "Success",
+  "info" : {
+    "averageLogin" : 3.4918
+  }
+}

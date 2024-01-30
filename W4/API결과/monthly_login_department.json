@@ -1,0 +1,36 @@
+{
+  "returnCode" : 200,
+  "param" : {
+    "startDate" : "2023-07-01",
+    "endDate" : "2023-12-31",
+    "department" : "Development"
+  },
+  "returnMessage" : "Success",
+  "info" : {
+    "Development" : [ {
+      "month" : "2023-07",
+      "department" : "Development",
+      "loginCount" : 23
+    }, {
+      "month" : "2023-08",
+      "department" : "Development",
+      "loginCount" : 25
+    }, {
+      "month" : "2023-09",
+      "department" : "Development",
+      "loginCount" : 13
+    }, {
+      "month" : "2023-10",
+      "department" : "Development",
+      "loginCount" : 30
+    }, {
+      "month" : "2023-11",
+      "department" : "Development",
+      "loginCount" : 17
+    }, {
+      "month" : "2023-12",
+      "department" : "Development",
+      "loginCount" : 15
+    } ]
+  }
+}

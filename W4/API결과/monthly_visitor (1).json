@@ -1,0 +1,49 @@
+{
+  "returnCode" : 200,
+  "param" : {
+    "startDate" : null,
+    "endDate" : null,
+    "department" : null
+  },
+  "returnMessage" : "Success",
+  "info" : {
+    "details" : [ {
+      "month" : "2023-01",
+      "visitorCount" : 111
+    }, {
+      "month" : "2023-02",
+      "visitorCount" : 109
+    }, {
+      "month" : "2023-03",
+      "visitorCount" : 112
+    }, {
+      "month" : "2023-04",
+      "visitorCount" : 82
+    }, {
+      "month" : "2023-05",
+      "visitorCount" : 100
+    }, {
+      "month" : "2023-06",
+      "visitorCount" : 97
+    }, {
+      "month" : "2023-07",
+      "visitorCount" : 113
+    }, {
+      "month" : "2023-08",
+      "visitorCount" : 104
+    }, {
+      "month" : "2023-09",
+      "visitorCount" : 99
+    }, {
+      "month" : "2023-10",
+      "visitorCount" : 119
+    }, {
+      "month" : "2023-11",
+      "visitorCount" : 97
+    }, {
+      "month" : "2023-12",
+      "visitorCount" : 107
+    } ],
+    "totalCount" : 1250
+  }
+}

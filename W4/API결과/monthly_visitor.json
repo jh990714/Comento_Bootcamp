@@ -1,0 +1,31 @@
+{
+  "returnCode" : 200,
+  "param" : {
+    "startDate" : "2023-07-01",
+    "endDate" : "2023-12-31",
+    "department" : null
+  },
+  "returnMessage" : "Success",
+  "info" : {
+    "details" : [ {
+      "month" : "2023-07",
+      "visitorCount" : 113
+    }, {
+      "month" : "2023-08",
+      "visitorCount" : 104
+    }, {
+      "month" : "2023-09",
+      "visitorCount" : 99
+    }, {
+      "month" : "2023-10",
+      "visitorCount" : 119
+    }, {
+      "month" : "2023-11",
+      "visitorCount" : 97
+    }, {
+      "month" : "2023-12",
+      "visitorCount" : 107
+    } ],
+    "totalCount" : 639
+  }
+}
