@@ -33,7 +33,7 @@
   
 - 휴일을 제외한 로그인 수 조회 API
 
-  요청 URL : `/monthly_login_department?startDate={startDate}&endDate={endDate}&department={department}`
+  요청 URL : `/non_holiday_login?startDate={startDate}&endDate={endDate}`
 
   - [휴일을 제외한 로그인 수 조회 API 결과1](https://github.com/jh990714/Comento_Bootcamp/blob/main/W4/API%EA%B2%B0%EA%B3%BC/non_holiday_login.json)
   
@@ -43,7 +43,7 @@
 
 - 부서별 월별 로그인 수 조회 API
 
-  요청 URL : `/non_holiday_login?startDate={startDate}&endDate={endDate}`
+  요청 URL : `/monthly_login_department?startDate={startDate}&endDate={endDate}&department={department}`
 
   - [부서별 월별 로그인 수 조회 API 결과1](https://github.com/jh990714/Comento_Bootcamp/blob/main/W4/API%EA%B2%B0%EA%B3%BC/monthly_login_department.json)
   
